@@ -1,18 +1,17 @@
-
 <p align="center">
   <h4 align="center">GitFav</h4>
 </p>
 
-### Splash screen
+### Tela inicial
 ![Git Fav](https://user-images.githubusercontent.com/116130802/221019064-713b5a35-4ec5-4c6c-935d-710dc9d03a7b.png)
-### Favorite
+### Favoritos
 ![Git Fav (1)](https://user-images.githubusercontent.com/116130802/221023650-ce6b7ba3-7db0-48c3-94fc-a722e2c2360c.png)
 
-## 💻 About:
+## 💻 Sobre:
 
-An app to favorite Github users.
+Um aplicativo para favoritar usuários do Github.
 
-In this application, the following topics were addressed:
+Nesta aplicação, os seguintes tópicos foram abordados:
 
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
@@ -20,47 +19,44 @@ In this application, the following topics were addressed:
 
 ---
 
-## Features
+## Funcionalidades
 
-- [x] A structured project, with a good organization of folders, division of components on the front-end, etc.
-- [x] A README.md file with the specifications on how to run the project in a dev environment.
-- [x] Meaningful names for functions and variables: Working a bit with Clean Code concepts.
-- [x] The app is responsive: using the concept of Mobile First.
-- [x] Meets the model proposed in Figma and contains elements indicative of action and state.
+- [x] Projeto estruturado, com boa organização de pastas, divisão de componentes no front-end, etc.
+- [x] Arquivo README.md com especificações de como rodar o projeto em ambiente de desenvolvimento.
+- [x] Nomes significativos para funções e variáveis: trabalhando um pouco com conceitos de Clean Code.
+- [x] Aplicativo responsivo: utilizando o conceito Mobile First.
+- [x] Segue o modelo proposto no Figma e contém elementos indicativos de ação e estado.
 
 ---
 
 ## 🎨 Layout
 
-The layout of the application is available in Figma:
+O layout da aplicação está disponível no Figma:
 
 <a href="https://www.figma.com/file/I7P7LMB0UHQX2Vm64diiFY/%5BDesafios-Explorer%5D-GitFav-(Copy)-(Copy)?node-id=104%3A48&mode=dev">
-  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+  <img alt="Feito por tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
+## 🚀 Como rodar o projeto
 
+💡 O Backend deve estar rodando na sua máquina para que o frontend funcione corretamente.
 
-## 🚀 How to run the project.
+### Pré-requisitos
 
-💡The Backend must be running on your machine in order for the frontend to be re-addressed.
-
-### Prerequisites
-
-Before you begin, you will need to have the following tool installed on your machine:
+Antes de começar, você precisará ter a seguinte ferramenta instalada na sua máquina:
 [VSCode](https://code.visualstudio.com/)
 
-### 💻 Running the FrontEnd
+### 💻 Rodando o FrontEnd
 
 ```bash
 git init
 
 git clone https://github.com/Gabrielingnau/GitFav
-
 ```
 
-## 🛠 Technologies
+## 🛠 Tecnologias
 
-This project was developed with the following technologies:
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
